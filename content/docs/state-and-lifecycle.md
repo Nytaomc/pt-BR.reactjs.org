@@ -10,7 +10,7 @@ next: handling-events.html
 
 Esta página apresenta o conceito de estado e ciclo de vida em um componente React. Você pode encontrar uma [referência detalhada da API de componente aqui](/docs/react-component.html).
 
-Considere o exemplo do relógio de [uma das seções anteriores](/docs/rendering-elements.html#updating-the-rendered-element). Em [Elementos de Renderização](/docs/rendering-elements.html#rendering-an-element-into-the-dom), nós aprendemos apenas uma maneira de atualizar a UI. Nós chamamos `ReactDOM.render()` para mudar a saída renderizada.
+Considere o exemplo do relógio de [uma das seções anteriores](/docs/rendering-elements.html#updating-the-rendered-element). Em [Renderizando Elementos](/docs/rendering-elements.html#rendering-an-element-into-the-dom), nós aprendemos apenas uma maneira de atualizar a UI. Nós chamamos `ReactDOM.render()` para mudar a saída renderizada.
 
 ```js{8-11}
 function tick() {
